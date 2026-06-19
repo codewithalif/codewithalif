@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **codewithalif/codewithalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi there 👋 I'm Alif!
+
+I am an aspiring Web Developer and an AI enthusiast. I love building web projects, learning new coding concepts, and experimenting with various AI tools to enhance my workflow. 
+
+This profile serves as a home for my learning journey, practice repositories, and projects.
+
+### 💻 About Me:
+-  *Currently learning:* Web Development technologies (HTML, CSS, Bootstrap, and JavaScript).
+
+-  *Goal:* To steadily improve my coding skills and build functional, real-world web applications.
+
+
+---
+Fun Fact:
+1. I love cats and birds.
+2. My favourite anime is Vinland Saga.
+3. I don't like lying.
+
