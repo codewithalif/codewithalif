@@ -30,7 +30,8 @@ This profile serves as a home for my learning journey, practice repositories, an
 
 ---
 Fun Fact:
-*1. I love cats and birds.
-*2. My favourite anime is Vinland Saga.
-*3. I don't like lying.
+1. I love cats and birds.
+2. My favourite anime is Vinland Saga.
+3. I don't like lying.
 
+Let's build something awesome together! ⚡
