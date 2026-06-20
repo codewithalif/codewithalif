@@ -23,14 +23,14 @@ I am an aspiring Web Developer and an AI enthusiast. I love building web project
 This profile serves as a home for my learning journey, practice repositories, and projects.
 
 ### 💻 About Me:
--  *Currently learning:* Web Development technologies (HTML, CSS, Bootstrap, and JavaScript).
+-  *Currently learning:* Web Development technologies (HTML, CSS, Bootstrap, JavaScript, etc).
 
 -  *Goal:* To steadily improve my coding skills and build functional, real-world web applications.
 
 
 ---
 Fun Fact:
-1. I love cats and birds.
-2. My favourite anime is Vinland Saga.
-3. I don't like lying.
+*1. I love cats and birds.
+*2. My favourite anime is Vinland Saga.
+*3. I don't like lying.
 
