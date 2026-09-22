@@ -102,6 +102,8 @@ I am a  passionate frontend developer. I love building web projects, learning ne
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--Animation Section -->
+<!-- Snake Game Animation Section -->
+
+## GitHub Contributions:
 
 ![Snake animation](https://raw.githubusercontent.com/codewithalif/codewithalif/output/github-contribution-grid-snake.svg)
