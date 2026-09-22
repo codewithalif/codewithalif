@@ -21,7 +21,7 @@ I am a  passionate frontend developer. I love building web projects, learning ne
 <!--Socials section-->
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bug.00001) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/bug.00001](https://www.facebook.com/bug.00001)) 
 
 <!--Tech Stack section-->
 
