@@ -1,9 +1,11 @@
-# 💫 About Me:
-## Hi there 👋 I'm Alif!
-I am a  passionate frontend developer. I love building web projects, learning new coding concepts, and experimenting with various AI tools to enhance my workflow. 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+%F0%9F%91%8B;I+am+Alif;Fronted+Web+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</p> <br>
 
-This profile serves as a home for my learning journey, practice repositories, and projects.
-
+ # 💫 About Me:
+I am a  passionate frontend developer. I love building web projects, learning new coding concepts, and experimenting with various AI tools to enhance my workflow. <br>This profile serves as a home for my learning journey, practice repositories, and projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bug.00001) 
