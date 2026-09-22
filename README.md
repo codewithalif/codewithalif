@@ -1,3 +1,11 @@
+<!--Cover photo section-->
+
+<p align="center">
+  <img src="./Cover.png" alt="Cover Photo" width="100%">
+</p>
+
+
+
 <!--Animated Text section-->
 
 <p align="center">
