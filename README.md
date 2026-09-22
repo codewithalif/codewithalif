@@ -101,3 +101,7 @@ I am a  passionate frontend developer. I love building web projects, learning ne
 <!--[![](https://komarev.com/ghpvc/?username=codewithalif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--Animation Section -->
+
+![Snake animation](https://raw.githubusercontent.com/codewithalif/codewithalif/output/github-contribution-grid-snake.svg)
