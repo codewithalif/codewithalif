@@ -17,6 +17,7 @@
 <!--About  section-->
  # 💫 About Me:
 I am a  passionate frontend developer. I love building web projects, learning new coding concepts, and experimenting with various AI tools to enhance my workflow. <br>This profile serves as a home for my learning journey, practice repositories, and projects.
+<h4> I am currently learning React and Next.js to build functional web applications.</h4>
 
 <!--Socials section-->
 
